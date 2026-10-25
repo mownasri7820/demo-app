@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  IMAGE_NAME: demo-app
+  IMAGE_NAME: mownasri720/demo-app:latest
 
 jobs:
   build-deploy:
